@@ -4,7 +4,7 @@
     "description": "VScommunity.exe",
     "tags": [
         "Windows",
-        "Visual Studio",
+        "VS",
         "Community"
     ],
     "iconUri": "https://github.com/Azure/azure-devtestlab/raw/master/Artifacts/windows-vscode/vscode%20icon.png",
